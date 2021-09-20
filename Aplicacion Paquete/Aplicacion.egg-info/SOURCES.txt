@@ -1,0 +1,12 @@
+MANIFEST.in
+setup.cfg
+setup.py
+Aplicacion/__init__.py
+Aplicacion/views.py
+Aplicacion.egg-info/PKG-INFO
+Aplicacion.egg-info/SOURCES.txt
+Aplicacion.egg-info/dependency_links.txt
+Aplicacion.egg-info/requires.txt
+Aplicacion.egg-info/top_level.txt
+Aplicacion/static/style.css
+Aplicacion/templates/index.html
